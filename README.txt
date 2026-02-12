@@ -72,8 +72,8 @@ qc.cx(0, 1)
 
 ```
 FerraX-IDE/
-├── main.html          # Main web application
-├── index.html         # Compiler web application (FerraX IDE)
+├── index.html         # Main web application
+├── app.html           # Compiler web application (FerraX IDE)
 ├── LICENSE            # Apache 2.0 License
 ├── NOTICE             # Third-party attributions (Qiskit)
 ├── README.md          # This file
@@ -142,4 +142,5 @@ Did you find a bug, have an idea for a new feature, or want to help translate Te
 Current version: 1.0.0-beta
 License: Apache 2.0
 Last updated: 2026
+
 
